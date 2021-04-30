@@ -5,7 +5,9 @@
 An Pytorch Implementation of Yolov3, the weights can be found by the link in notebook.
 
 ## Intro
-Object detection is a popular domain of DeepLearning. One of famous detection algorithms is YOLO series, its last version is YOLOv5, but in this project we try to implement classic YOLOv3 which was famous as making a big improvement in object detection. The its first version was implemented by different models, and many contributors has analysed this algorithm in detail. Among their work, the explications and codes have trivial differences and errors. This project is to resume these jobs, then realise the Model with commenting the code in detial to understand how does Yolo works.
+Object detection is a popular domain of DeepLearning. One of famous detection algorithms is YOLO series, its last version is YOLOv5, but in this project we try to implement classic YOLOv3 which was famous as making a big improvement in object detection. The its first version was implemented by different models, and many contributors has analysed this algorithm in detail. Among their work, the explications and codes have trivial differences and errors. This project is to resume these jobs, then realise the Model with commenting the code in detial to understand how does Yolo works. 
+
+Code in notebook is a combination and resume of these related work, and well detailed commmented.  
 
 ## Reference 
 **YOLOv3: An Incremental Improvement** https://pjreddie.com/media/files/papers/YOLOv3.pdf
